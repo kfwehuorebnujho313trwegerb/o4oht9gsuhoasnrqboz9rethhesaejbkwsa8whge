@@ -1,11 +1,5 @@
 #profile-title: ТЕСТ | ВПН
  vless://aaa-eee-111-222@01.23.45:0123/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=null.com&fp=chrome&security=reality&pbk=T43THJgjn5ngeurh9ugernjGRE&packetEncoding=xudp#VPN ОБХОД БЕЛЫХ СПИСКОВ
-# profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Полная • Full
-# profile-update-interval: 1
-# Date/Time: 2026-05-05 / 20:14 (Moscow)
-# Количество: 203
-# For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
-
 vless://3d243df5-9cda-4aac-89d5-354de77d79e2@144.31.129.46:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&security=reality&sid=916a&sni=mirror.yandex.ru&type=tcp#%F0%9F%87%A7%F0%9F%87%BE%20Belarus%20%5B%2ACIDR%5D
 vless://3d243df5-9cda-4aac-89d5-354de77d79e2@144.31.129.46:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mirror.yandex.ru&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&sid=916a&type=tcp#%F0%9F%87%A7%F0%9F%87%BE%20Belarus%20%5B%2ACIDR%5D
 vless://2de349e0-19bb-4341-96e3-83c274b22025@217.149.29.251:9887?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4&sni=www.io.ozone.ru&fp=chrome&alpn=http%2F1.1&headerType=none#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B%2ACIDR%5D
